@@ -4,9 +4,8 @@ languages:
 - java
 products:
 - azure
-extensions:
-- services: Sql
-- platforms: java
+description: "Getting Started with Sql - Manage Sql Virtual Network Rules - in Java"
+urlFragment: sql-database-java-manage-virtual-network-rules
 ---
 
 # Getting Started with Sql - Manage Sql Virtual Network Rules - in Java #
